@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matimat3
-- 👀 I’m a Python and C# developer
-- 🌱 I’m currently learning Django
+- 👀 I’m a Solidity developer
+- 🌱 I’m currently working on a Solidity project
 
 <!---
 matimat3/matimat3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
